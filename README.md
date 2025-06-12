@@ -1,3 +1,5 @@
+![Sentiment analysis jpg](https://github.com/user-attachments/assets/d7cf9df3-fbed-49d1-8190-e8a93788ccb2)![Sentiment analysis jpg](https://github.com/user-attachments/assets/8941000f-797e-4517-a523-470ebeb8badd)
+
 # Sentiment Analysis on Customer Reviews
 
 ## Overview
@@ -18,7 +20,7 @@ The sentiment analysis model achieves **82.48% accuracy** based on validation re
 
 
 ## Installation & Usage
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://github.com/Karthik-1221/Sentiment-Analysis
 2. Navigate to the project directory: cd sentiment-analysis
 3. Install the required dependencies: pip install -r requirements.txt
 4. Run the application: streamlit run app.py
