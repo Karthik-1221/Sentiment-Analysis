@@ -1,4 +1,4 @@
-![Sentiment analysis jpg](https://github.com/user-attachments/assets/d7cf9df3-fbed-49d1-8190-e8a93788ccb2)![Sentiment analysis jpg](https://github.com/user-attachments/assets/8941000f-797e-4517-a523-470ebeb8badd)
+![Sentiment analysis jpg](https://github.com/user-attachments/assets/d7cf9df3-fbed-49d1-8190-e8a93788ccb2)
 
 # Sentiment Analysis on Customer Reviews
 
