@@ -30,7 +30,7 @@ The sentiment analysis model achieves **82.48% accuracy** based on validation re
 ## Tech Stack
 - **Programming Language:** Python
 - **Libraries:** Streamlit, Scikit-learn, Pandas, NumPy,Naive-bayes
-- **Machine Learning Algorithm:** Sentiment classification model
+- **Machine Learning Algorithm:** MultinomialNB
 
 ## License
 This project is licensed under the MIT License.
