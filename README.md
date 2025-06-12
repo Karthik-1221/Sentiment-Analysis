@@ -36,7 +36,7 @@ The sentiment analysis model achieves **82.48% accuracy** based on validation re
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-- The dataset used for training was sourced from `[add dataset source]`.
+- The dataset used for training was sourced from `kaggle`.
 - Thanks to the contributors for valuable insights and improvements.
 
 ---
